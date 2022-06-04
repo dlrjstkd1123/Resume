@@ -16,7 +16,7 @@
 ##### Email: dlrjstkd1123@naver.com
 
 
-##### 깃허브 주소: dlrjstkd1123.github.com
+##### 깃허브 주소: [dlrjstkd1123.github.com](https://github.com/dlrjstkd1123/Resume/blob/a492ec125ca79528aff7012a0d70bac381c9cff2/README.md)
 
 ---
 # 학습 프로그래밍 언어
